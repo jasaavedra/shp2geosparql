@@ -3,6 +3,10 @@
 # Geometry2RDF tool http://mayor2.dia.fi.upm.es/oeg-upm/index.php/en/technologies/151-geometry2rdf was the base for this one
 # (CC BY-SA)
 
+Was developed like a Netbeans project
+a prebuild version is in the carper dist
+take care of inlude the libs for new developments
+
 
 ========================
 BUILD OUTPUT DESCRIPTION
